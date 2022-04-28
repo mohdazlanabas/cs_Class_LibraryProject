@@ -1,0 +1,7 @@
+D:\CSharp\ShowCase
+D:\CSharp\ShowCase.dll
+D:\CSharp\ShowCase.deps.json
+D:\CSharp\ShowCase.runtimeconfig.json
+D:\CSharp\ShowCase.pdb
+D:\CSharp\StringLibrary.dll
+D:\CSharp\StringLibrary.pdb
